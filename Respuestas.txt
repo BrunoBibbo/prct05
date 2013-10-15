@@ -14,4 +14,4 @@ Una vez hecho esto el error ha sido corregido y el programa calcula el mcd.
 
 2.3.) Escriba la dirección 'HTTP' del repositorio que contiene el desarrollo de su práctica.
 
-
+https://github.com/alu0100697063/prct05.git
