@@ -79,8 +79,8 @@ f6.min
 
 puts ""
 
-puts "La fracción f1 es: #{f1}"
-puts "La fracción f2 es: #{f2}"
+puts "La fraccion f1 es: #{f1}"
+puts "La fraccion f2 es: #{f2}"
 
 puts ""
 
